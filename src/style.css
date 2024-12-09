@@ -8,15 +8,17 @@ h1,h2
   text-align: center;
 }
 
-img {
-  max-width: 300px;
+.croissant-photo {
+  max-width: 50%;
   display: block;
-  margin: 0 auto;
+  margin: 30px auto;
+  border-radius: 10px;
+
 }
 
-.link {
+footer a{
 color: red;
-margin-left: 10px;
+margin-left:10px;
 }
 
 footer{
@@ -24,3 +26,9 @@ footer{
 }
 
 p{text-align: center;}
+
+.emoticon{
+  font-size: 96px;
+  margin-top: 20px;
+   margin-bottom: 20px;
+}
