@@ -1,0 +1,28 @@
+body {
+  margin-top: 100px;
+}
+
+h1,h2
+{
+  font-family: monospace;
+  text-align: center;
+}
+
+img {
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.link {
+color: red;
+margin-left: 10px;
+}
+
+.link-container{
+  display:flex;
+  justify-content: center;
+
+}
+
+p{text-align: center;}
