@@ -19,10 +19,8 @@ color: red;
 margin-left: 10px;
 }
 
-.link-container{
-  display:flex;
-  justify-content: center;
-
+footer{
+  text-align: center;
 }
 
 p{text-align: center;}
